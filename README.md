@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BartTux
+- 👋 Hi, I’m Bartek but I use @BartTux nick in IT areas
 - 👀 I’m interested in mechanical design/engineering and creating desktop apps in C++ and JS/TS mainly for engineering needs 
 - 🌱 I still gain skills in CAD/CAE, C++ and JS/TS.
 - 📫 How to reach me? You can reach me by barttux@protonmail.com email.
